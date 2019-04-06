@@ -47,8 +47,7 @@
 ### 主力技术栈
 
 - TypeScript：已经成功把团队中所有项目都迁往TS
-- JavaScript（React）：React + Mobx（State Tree）+ RxJS
-- NodeJS（Express，NestJS， Koa）
+- NodeJS（Express，NestJS）
 
 ### 非主力技术栈
 
