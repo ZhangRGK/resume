@@ -44,10 +44,18 @@
 
 将公司前端技术栈升级到 TypeScript + Mobx State Tree + React, 并且针对开发工作流和前端性能做优化.
 
+##### 2019年4月-至今
+
+自由职业
+
+- Etherum 智能合约开发
+- NodeJS 全栈开发
+
 ### 主力技术栈
 
 - TypeScript：已经成功把团队中所有项目都迁往TS
 - NodeJS（Express，NestJS）
+- React(React Native)
 
 ### 非主力技术栈
 
