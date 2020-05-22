@@ -50,10 +50,11 @@
 
 - Etherum 智能合约开发
 - NodeJS 全栈开发
+- Flutter 客户端开发
 
 ### 主力技术栈
 
-- TypeScript：已经成功把团队中所有项目都迁往TS
+- TypeScript
 - NodeJS（Express，NestJS）
 - React(React Native)
 
